@@ -7,7 +7,7 @@ External website: [Snack suggestions](https://www.benjerry.com)
 [Navigate to README.md](README.md)
 
 Image file in directory:  
-![Summer](/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/markdown/Summer_photo.jpg)
+![Summer](Summer_photo.jpg)
 
 Image from the web: ![Corgi](https://cdn1-www.dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg)
 
